@@ -53,3 +53,8 @@
     - Horaires
     - Escales
     - Nom de la compagnie
+
+## VI. Compagnies aériennes partenaires
+19. Avez-vous une liste de compagnies aériennes partenaires ?
+20. Les mettez-vous en concurrence pour obtenir de meilleurs tarifs ?
+21. Souhaitez-vous leur offrir un accès à la plateforme pour gérer leurs vols ?
